@@ -49,9 +49,11 @@
       ├─ LED(RED)
       └─ LED(GREEN)
 
----
+```
 
 ## 사용 기술 및 부품
+
+---
 
 ### 소프트웨어
 | 항목 | 내용 |
@@ -92,7 +94,9 @@
 
 | 인식 화면 | 아두이노 동작 |
 |-----------|--------------|
-| ![인식]![Uploading 1780971542638.jpg…] | ![동작]![Uploading 1780971542492.jpg…] |
+| ![인식]![<img width="3024" height="4032" alt="1780971542638" src="https://github.com/user-attachments/assets/b3f4916f-2e42-4001-8455-ccbfa07d03b8" />
+] | ![동작]![<img width="3024" height="4032" alt="1780971542492" src="https://github.com/user-attachments/assets/8d9bf945-6669-40f6-a577-65bcc515a2d2" />
+] |
 
 ---
 
