@@ -84,7 +84,6 @@
 ### 2. 아두이노 제어 로직
 
 - LED 신호로 시스템 상태 시각화
-- (회로도 이미지가 있다면 삽입)
 
 ---
 
@@ -100,16 +99,12 @@
 
 ## 시연 영상
 
-[![시연 영상 썸네일](images/thumbnail.png)](https://youtu.be/YOUR_VIDEO_ID)
-
-> 클릭하면 YouTube 영상으로 이동합니다.  
-> 또는 `videos/` 폴더에 직접 영상 파일을 업로드하고 링크를 걸 수도 있습니다.
+[https://drive.google.com/file/d/1zP9HWfiP4gbNTmD09Ng8iWI0yaDfnQKI/view?usp=sharing]
 
 ---
 
 ## 향후 개선 사항
 
 - [ ] 인식 대상 클래스 확장
-- [ ] 웹 대시보드 추가 (실시간 모니터링)
 
 ---
