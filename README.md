@@ -1,4 +1,4 @@
-<img width="3024" height="4032" alt="1780971542638" src="https://github.com/user-attachments/assets/ed1c51c0-6f44-4851-ae76-8ac8a5dde24f" /># Vision AI 기반 아두이노 스마트 정렬 시스템
+># Vision AI 기반 아두이노 스마트 정렬 시스템
 
 > *복용 시간에 맞는 영양제를 인식하고 분류하여 건강한 습관을 지켜주는 스마트 영양제 도우미 로봇*
 
